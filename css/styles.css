@@ -18,6 +18,21 @@ div p {
     padding-left: 50px;
 }
 
+#pokeball{
+    position:absolute;
+    top:210px;
+    left:250px;
+  }
+  
+  #imagenpokeball{
+    width:50px;
+  }
+
+  #button{
+    border: none;
+    background-color: transparent;
+  }
+
 
 
 
